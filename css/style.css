@@ -135,3 +135,35 @@ li{
 .footer{
     margin-top:45px;
 }
+.container{
+    height:570px;
+    width:1349px;
+    background-color:#E6E6E6;
+    position:relative;
+    margin-top:30px;
+}
+.wrapper{
+    position:absolute;
+    left:97px;
+    top:56px;
+    line-height: 1.6;
+    display:inline-block;
+}
+.header3{
+    font-family:nos;
+    color:#3D58A6;
+    font-size:20px;
+}
+.contact-contact{
+    font-family:nos2;
+}
+.grey-span{
+    color:#808080;
+}
+.map{
+    position:absolute;
+    width:848.5px;
+    height:464.5px;
+    left:422px;
+    top:39px;
+}
