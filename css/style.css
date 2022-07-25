@@ -1,0 +1,93 @@
+@font-face{
+    src: url(../fonts/bpg_nino_mtavruli_bold.ttf);
+    font-family:nos;
+}
+@font-face{
+    src: url(../fonts/bpg_nino_mtavruli_book.ttf);
+    font-family:nos1;
+}
+@font-face{
+    src: url(../fonts/bpg_ingiri_arial.ttf);
+    font-family:nos2;
+}
+.html-1{
+    display:inline-block;
+    margin:30px 0 0 30px;
+    vertical-align: text-bottom;
+
+}
+.header{
+    display:inline-block;
+}
+li{
+    display:inline-block;
+    margin:30px 0 0 50px;
+    font-size:22px;
+    font-family:nos;
+    vertical-align: text-bottom;
+    color:#3D58A6;
+    
+}
+.active{
+    color:#EE4036;
+}
+.main-html{
+    margin:77px 0 0 98px;
+}
+.bottom-block{
+    height:225px;
+    width:570px;
+    background-color:#F2F2F2;
+    display:inline-block;
+    vertical-align:middle;
+    
+}
+.block1{
+    margin-right:29px;
+}
+.container{
+    width:1180px;
+    margin:0 auto;
+}
+.bottom-heading{
+    margin-top:126px;
+    margin-bottom:31px;
+}
+.inside-heading{
+    padding:19px 0 0 28px;
+}
+.inside-photo{
+    padding:20px 62px 0 39px;
+    display:inline-block;
+    vertical-align: middle;
+}
+.inside-para{
+    width:250px;
+    display:inline-block;
+    vertical-align: middle;
+
+}
+.bottom-heading, .inside-heading{
+    font-family: 'Roboto', sans-serif;
+}
+.bottom-heading{
+    color:black;
+}
+.inside-heading{
+    color:#3D58A6;
+}
+.inside-para{
+    font-family: 'Roboto', sans-serif;
+
+}
+.footer-first{
+    margin:68px 65px 0 110px;
+}
+.middle-line-1{
+    height:26.67px;
+    width:1px;
+    display:inline-block;
+    background-color:#363E97;
+    margin-left:-63px;
+
+}
